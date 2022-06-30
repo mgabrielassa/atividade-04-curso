@@ -1,0 +1,22 @@
+* {
+    margin: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h2 {
+    padding: 10px;
+}
+
+.tabela-moda{
+    background-color: #BB86FC;
+    color: #FFFF;
+    font-weight: bold;
+}
+.tabela-produtos{
+    background-color: #424250;
+    color: #FFFF;
+}
+.tabela-casa{
+    background-color: #00C4B4;
+    color: #FFFF;
+    font-weight: bold;
